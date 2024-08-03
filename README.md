@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,react,nextjs,lua,py,arduino,figma,latex)](https://skillicons.dev)
 <!--
 **n0x1/n0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
