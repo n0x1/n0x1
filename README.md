@@ -1,7 +1,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,lua,py,figma,latex,arduino&theme=dark)](https://skillicons.dev)
 
 Currently working on projects with: Python, React, and C  
+
 Outside of code I like romantic poetry and nu-metal  
+
 Inquiries: ctmanzo3@icloud.com
 <!--
 **n0x1/n0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
