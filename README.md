@@ -1,3 +1,5 @@
+/ˈnɔk.si/  
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,lua,py,figma,latex,arduino&theme=dark)](https://skillicons.dev)
 
 Currently working on projects with: Python, React, and C  
