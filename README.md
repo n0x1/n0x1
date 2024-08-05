@@ -2,7 +2,7 @@
 
 Currently working on projects with: Python, React, and C  
 
-Outside of code I like romantic poetry and nu-metal  
+Outside of code I like romantic poetry, nu-metal, and human languages
 
 Inquiries: ctmanzo3@icloud.com
 <!--
