@@ -2,9 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,lua,py,figma,latex,arduino&theme=dark)](https://skillicons.dev)
 
-Currently working on projects with: Python, React, and C  
 
-Outside of code I like romantic poetry, nu-metal, and human languages
+i like romantic poetry, nu-metal, and human languages
 
 Inquiries: ctmanzo3@icloud.com
 <!--
