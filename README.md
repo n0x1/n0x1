@@ -5,7 +5,6 @@
 
 i like romantic poetry, nu-metal, and human languages
 
-Inquiries: ctmanzo3@icloud.com
 <!--TBD more PYthon, electron, nextjs
 
 **n0x1/n0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
