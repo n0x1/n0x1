@@ -1,13 +1,15 @@
 /ˈnɔk.si/  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,lua,py,figma,latex,arduino&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,lua,py,figma,latex,arduino,robloxstudio&theme=dark)](https://skillicons.dev)
 
 
 i like romantic poetry, nu-metal, and human languages
 
 Inquiries: ctmanzo3@icloud.com
-<!--
+<!--TBD PY AND NEXTJS
+
 **n0x1/n0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
