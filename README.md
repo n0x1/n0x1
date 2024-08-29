@@ -5,7 +5,7 @@
 
 i like romantic-era poetry, nu-metal, and human languages. computer languages too
 
-<!--TBD more PYthon, electron, nextjs
+<!--TBD more PYthon, electron, nextjs, typescript
 
 **n0x1/n0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
