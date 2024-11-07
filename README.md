@@ -6,7 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,lua,py,figma,latex,arduino,robloxstudio&theme=dark)](https://skillicons.dev)
 
 
-i like romantic-era poetry, nu-metal, and human languages. computer languages too
 
 <!--TBD more PYthon, electron, nextjs, typescript
 
