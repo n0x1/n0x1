@@ -2,7 +2,7 @@
 /ˈnɔk.si/  
 High school junior with strong experience in web & game dev, looking to branch into AI/ML.
 
-
+My skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,lua,py,figma,latex,arduino,robloxstudio&theme=dark)](https://skillicons.dev)
 
 
