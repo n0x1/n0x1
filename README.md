@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d872ff73-60f2-4f43-8b30-695c3028a557)  
 /ˈnɔk.si/  
-
+High school junior with strong experience in web & game dev, looking to branch into AI/ML.
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,lua,py,figma,latex,arduino,robloxstudio&theme=dark)](https://skillicons.dev)
